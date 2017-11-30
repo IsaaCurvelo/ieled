@@ -1,0 +1,130 @@
+#btn-pesq-ocorrencia{
+	cursor:pointer;
+}
+
+#titulo-exibicao{
+	padding-top: 3ch;
+}
+
+#pesquisa-section{
+
+}
+.division-actions {
+	margin-left: 7px;
+}
+
+h1{
+	display: inline;
+	box-sizing:border-box;
+}
+
+.container{
+	padding-bottom:13ch;
+
+}
+
+.pesq-tool{
+	margin-top:1ch;
+}
+
+.form-follow{
+	display:inline-block;
+	margin:0;
+	margin-top:0.5ch;
+}
+.painel-acoes .btn-default{
+	color: black;
+	background: #FFCC00;
+	border-color: #e6b800;
+	box-sizing: border-box;
+}
+.painel-acoes .btn-default:hover{
+	background-color: #e6b800;
+	border-color: #cca300;
+}
+
+.painel-acoes{
+	padding:1px;
+}
+
+.btn-salvar-alteracoes{
+	float:left;
+	!important;
+}
+
+.btn-deletar-ocorrencia{
+	float:left;
+	!important;
+}
+
+.ui-dialog-buttonset{
+	width:100%;
+}
+
+.btn-dismiss-dialog{
+	float: right;
+}
+
+.painel-acoes .btn-info , .btn-success {
+	padding: 0.75ch;
+}
+.painel-acoes .btn-default , .btn-primary {
+	padding: 1.2ch 2ch;
+}
+@media (max-width: 1200px){
+	td, tr{
+		word-wrap: break-word;
+	}
+	.painel-acoes{
+		width: 20%;
+	}
+	.coluna-acoes{
+		width: 20%;
+	}
+}
+
+@media (max-width: 991px){
+
+	#pesquisa-section{
+		display: inline-block;
+		margin-bottom: 2ch;
+	}
+
+	#tabela-conteudo{
+		table-layout: fixed;
+	}
+
+	td, tr{
+		word-wrap: break-word;
+	}
+
+	.form-follow .glyphicon-share-alt{
+		display: none;
+	}
+	.painel-acoes .btn-default , .btn-primary {
+		padding: 0.8ch;
+	}
+	.painel-acoes{
+		width: 15%;
+	}
+	.coluna-acoes{
+		width: 15%;
+	}
+}
+
+@media(max-width: 640px ){
+	.painel-acoes .btn-primary{
+		/*consertar isso aqui... tá desalinhando a parada*/
+		margin-top: 0.45ch;
+	}
+}
+
+
+
+
+
+
+
+
+
+

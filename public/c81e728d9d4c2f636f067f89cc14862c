@@ -1,0 +1,23 @@
+empresa;cnpj;"municipio contratante";situação;"área de contratação";"tipo de contratação";valor;fonte;data;"órgão investigador";investigador;email;telefone
+"MILENIUM VEÍCULOS E PEÇAS LTDA";03.035.734/0001-02;"FORMOSA DA SERRA NEGRA";fiscalizada;saude;compra;55.800,00;"PROCESSO N° 11734/2015-TCE/MA - AUDITORIA";2017-04-11;TCE-MA-UIE;"Karla Herlanger Lima Barreto";karlabarreto@tce.ma.gov.br;
+"G. L. OLIVEIRA TRANSPORTE - ME";17.170.358/0001-90;"FORMOSA DA SERRA NEGRA";fiscalizada;educacao;servico;1.390.608,00;"PROCESSO N° 11734/2015 - TCE/MA - AUDITORIA";2017-04-11;TCE-MA-UIE;"Karla Herlanger Lima Barreto";karlabarreto@tce.ma.gov.br;
+"NATAL DA SILVA COSTA ME";03.881.005/0001-69;"FORMOSA DA SERRA NEGRA";fiscalizada;administracao;servico;721.850,11;"PROCESSO N° 11736/2015-TCE/MA - AUDITORIA";2017-04-11;TCE-MA-UIE;"Karla Herlanger Lima Barreto";karlabarreto@tce.ma.gov.br;
+"A. MACEDO DE SOUZA & CIA LTDA-ME";13.152.603/0001-50;"FORMOSA DA SERRA NEGRA";fiscalizada;administracao;servico;896.500,00;"PROCESSO N° 11736/2015 - TCE/MA - AUDITORIA";2017-04-11;TCE-MA-UIE;"Karla Herlanger Lima Barreto";karlabarreto@tce.ma.gov.br;
+"J. EDMILSON DA SILVA ME";12.113.983/0001-51;"FORMOSA DA SERRA NEGRA";fiscalizada;educacao;servico;1.861.436,00;"PROCESSO N° 11736/2015 - TCE/MA - AUDITORIA";2017-04-11;TCE-MA-UIE;"Karla Herlanger Lima Barreto";karlabarreto@tce.ma.gov.br;
+"VILANOVA E RIBEIRO LTDA-ME";11.930.967/0001-99;"OLHO D'ÁGUA DAS CUNHÃS";fiscalizada;;;"R$ 900.000,00";"Auditoria no processo 5670/2015";2017-03-02;MPC-MA;"JAIRO CAVALCANTI VIEIRA";jcvieira@tce.ma.gov.br;
+"JANAINA DE FATIMA SILVA FRANÇA - ME";09.495.329/0001-45;CARUTAPERA;fiscalizada;;;"R$ 386.000,00";"Auditoria no processo 5308/2015";2017-03-02;MPC-MA;"JAIRO CAVALCANTI VIEIRA";jcvieira@tce.ma.gov.br;
+"JOÃO ALVES CORDEIRO FILHO";04.865.110/0001-77;CARUTAPERA;fiscalizada;;;"R$ 32.965,23";"Auditoria no processo 5308/2015";2017-03-02;MPC-MA;"JAIRO CAVALCANTI VIEIRA";jcvieira@tce.ma.gov.br;
+"P R L PEREIRA – CARU CONSTRUÇÕES";17.471.259/0001-13;CARUTAPERA;fiscalizada;;;"R$ 3.155.144,52";"Auditoria no processo 5315/2015";2017-03-02;MPC-MA;"JAIRO CAVALCANTI VIEIRA";jcvieira@tce.ma.gov.br;
+"JANAINA DE FATIMA SILVA FRANÇA - ME";09.495.329/0001-45;CARUTAPERA;fiscalizada;;;"R$ 690.000,00";"Auditoria no processo 5315/2015";2017-03-02;MPC-MA;"JAIRO CAVALCANTI VIEIRA";jcvieira@tce.ma.gov.br;
+"JOÃO ALVES CORDEIRO FILHO";04.865.110/0001-77;CARUTAPERA;fiscalizada;;;"R$ 39.322,15";"Auditoria no processo 5315/2015";2017-03-02;MPC-MA;"JAIRO CAVALCANTI VIEIRA";jcvieira@tce.ma.gov.br;
+"M SILVEIRA SODRÉ";86.855.368/0001-57;CARUTAPERA;fiscalizada;;;;"Auditoria no processo 5315/2015";2017-03-02;MPC-MA;"JAIRO CAVALCANTI VIEIRA";jcvieira@tce.ma.gov.br;
+"RIO PRETO CONSTRUÇÕES E SERVIÇOS LTDA";04.355.324/0001-02;"CANDIDO MENDES";fiscalizada;;;"R$ 536.485,85";"Auditoria no processo 6668/2015";2017-03-02;MPC-MA;"JAIRO CAVALCANTI VIEIRA";jcvieira@tce.ma.gov.br;
+"RIO PRETO CONSTRUÇÕES E SERVIÇOS LTDA";04.355.324/0001-02;"CANDIDO MENDES";fiscalizada;;;"R$ 536.485,85";"Auditoria no processo 6669/2015";2017-03-02;MPC-MA;"JAIRO CAVALCANTI VIEIRA";jcvieira@tce.ma.gov.br;
+"COELHO EQUIPAMENTOS E CONTRUÇÕES LTDA";08.463.169/0001-90;BALSAS;fiscalizada;;;"R$ 4.672.000,00";"Auditoria no processo 9736/2015";2017-03-02;MPC-MA;"JAIRO CAVALCANTI VIEIRA";jcvieira@tce.ma.gov.br;
+"DM Comércio Varejista de Produtos Alimentícios Ltda - ME";01.618.568/0001-33;TUTOIA;fiscalizada;;;;"Auditoria no processo 7527/2016";2017-03-02;MPC-MA;"JAIRO CAVALCANTI VIEIRA";jcvieira@tce.ma.gov.br;
+"Interativa Cooperativa de Trabalho e Serviços Multiplos";10.568.797/0001-81;TUTOIA;fiscalizada;;;;"Auditoria no processo 7527/2016";2017-03-02;MPC-MA;"JAIRO CAVALCANTI VIEIRA";jcvieira@tce.ma.gov.br;
+"R N P GOMES CONSTRUÇÕES LTDA";17.443.978/0001-20;TUTOIA;fiscalizada;;;;"Auditoria no processo 7527/2016";2017-03-02;MPC-MA;"JAIRO CAVALCANTI VIEIRA";jcvieira@tce.ma.gov.br;
+"J P M COMÉRCIO E CEREAIS LTDA";05.362.089/0001-69;"URBANO SANTOS";fiscalizada;;;;"Auditoria no processo 7525/2016";2017-03-02;MPC-MA;"JAIRO CAVALCANTI VIEIRA";jcvieira@tce.ma.gov.br;
+"Moinho Logística e Empreendimentos LTDA - ME";14.526.278/0001-01;"URBANO SANTOS";fiscalizada;;;;"Auditoria no processo 7525/2016";2017-03-02;MPC-MA;"JAIRO CAVALCANTI VIEIRA";jcvieira@tce.ma.gov.br;
+"J P M COMÉRCIO E CEREAIS LTDA";05.362.089/0001-69;"MATA ROMA";fiscalizada;;;;"Auditoria no processo 7526/2016";2017-03-02;MPC-MA;"JAIRO CAVALCANTI VIEIRA";jcvieira@tce.ma.gov.br;
+"Moinho Logística e Empreendimentos LTDA - ME";14.526.278/0001-01;"MATA ROMA";fiscalizada;;;;"Auditoria no processo 7526/2016";2017-03-02;MPC-MA;"JAIRO CAVALCANTI VIEIRA";jcvieira@tce.ma.gov.br;

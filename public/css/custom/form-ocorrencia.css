@@ -1,0 +1,19 @@
+#btn-set-data:hover {
+	cursor:pointer;
+}
+
+#btn-set-cnpj {
+	cursor:pointer;
+}
+
+button {
+	margin-top: 3ch;
+}
+
+main {
+	padding-bottom: 13ch;
+}
+
+label{
+	margin-top: 0.5ch;
+}

@@ -1,0 +1,51 @@
+.card-content{
+  margin-bottom: 2ch;
+}
+/*
+
+@media (max-width: 448px){
+  .panel-inverted .btn{
+    margin-top: 1ch;
+    width: 18ch;
+  }
+
+  .panel-inverted .btn-info{
+    float: right;
+
+  }
+  .panel-inverted .btn-danger{
+    width: 10ch;
+  }
+}
+@media (max-width: 375px){
+  .panel-inverted .btn{
+    margin-top: 1ch;
+    width: 18ch;
+  }
+  .panel-inverted .btn-danger{
+    width: 10ch;
+  }
+  .panel-inverted .btn-info{
+    float: none!important;
+  }
+
+}
+
+@media (max-width: 320px){
+  .panel-inverted .btn{
+    margin-top: 1ch;
+    margin-left: 1ch;
+  }
+  .panel-inverted .btn-danger{
+    float: none !important;
+    margin-left: 1ch;
+  }
+  .panel-inverted .btn-info{
+    float: none !important;
+  }
+}
+*/
+
+
+
+

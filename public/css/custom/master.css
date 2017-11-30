@@ -1,0 +1,341 @@
+
+/*FOOTER CSS*/
+.footer {
+	/*margin-top: 10ch;*/
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background-color: #333;
+	border-radius: 3px;
+	/*display: block ;*/
+}
+.texto-footer {
+	margin-top: 1ch;
+	color: white;
+	width: 100%;
+}
+/*--------------------------------*/
+
+
+
+/* AQUI!!!!!!!!!!!!!!*/
+
+.glyphicon-bordered {
+	color:white !important;
+	text-shadow: -1px 0 #337ab7, 0 1px #337ab7, 1px 0 #337ab7, 0 -1px #337ab7;
+}
+
+
+.grid:after {
+	content: '';
+	display: block;
+	clear: both;
+}
+
+.grid-item {
+	margin:10px;
+	float: left;
+	background: #fff;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+}
+
+.grid-item-inverted {
+	background-color: #373a3c;
+	color: white;
+	border: 1px solid black;
+}
+
+
+/*GRID SIZES */
+
+@media (max-width: 448px) { 
+	.grid-item {width: 100%; margin-left: 0; margin-right: 0;}
+	.grid-item-1 { width:  100%; }
+	.grid-item-2 { width:  100%; }
+	.grid-item-2-5 { width:  100%; }
+	.grid-item-3 { width:  100%; }
+	.grid-item-3-5 { width:  100%; }
+	.grid-item-4 { width:  100%; }
+
+	.vertical-separator {
+		display: none;
+	}
+
+}
+
+@media (max-width: 1200px) { 
+
+	.vertical-separator {
+		height: 50px; 
+		border-left: 1px solid #eee; 
+		width= 3px; 
+		display: inline-block; 
+		float:left;
+	}
+
+}
+
+@media (min-width: 1200px) { 
+	.grid-item-1 { width:  160px; }
+	.grid-item-2 { width:  320px; }
+	.grid-item-2-5 { width:  450px; }
+	.grid-item-3 { width:  480px; }
+	.grid-item-3-5 { width:  580px; }
+	.grid-item-4 { width:  720px; }
+
+	.vertical-separator {
+		height: 50px; 
+		border-left: 1px solid #eee; 
+		width= 3px; 
+		display: inline-block; 
+		float:left;
+	}
+
+}
+
+
+.text-success{color:#3c763d}a.text-success:focus,a.text-success:hover{color:#2b542c}
+
+/*-----------*/
+
+text-verde {
+	color: #5cb85c !important;
+	background-color: black;
+}
+
+
+
+/*SOME BUTTONS CSS*/
+
+.btn-verde {
+	display: inline-block;
+	width: 150px;
+	height: 40px;
+	background: #5cb85c;
+	padding: 10px;
+	text-align: center;
+	border-radius: 5px;
+	color: white;
+	margin:1ch;
+}
+
+.btn-amarelo { 
+	display: inline-block;
+	width: 150px;
+	height: 40px;
+	background: #FFCC00;
+	padding: 10px;
+	text-align: center;
+	border-radius: 5px;
+	color: #404040;
+	margin:1ch;
+}
+
+.btn-primary{
+	background-color: #0275d8 !important;
+	border-colour: #0275d8 !important;
+	margin-top: 0;
+}
+
+
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 15px;
+}
+.btn-circle.btn-lg {
+  width: 50px;
+  height: 50px;
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.33;
+  border-radius: 25px;
+}
+.btn-circle.btn-xl {
+  width: 70px;
+  height: 70px;
+  padding: 10px 16px;
+  font-size: 24px;
+  line-height: 1.33;
+  border-radius: 35px;
+}
+
+
+/*-----------------------------------*/
+
+
+/*MY OWN CALLOUTS CSS*/
+
+.badge-danger{
+	background-color: #d9534f !important;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+		background: #0D6BBD !important;
+}
+
+.text-card{
+	margin-top: 1ch;
+	margin-top: 2ch;
+}
+
+.panel-inverted , .btn-inverted{
+	background-color: #373a3c;
+	color: white;
+}
+
+.btn-inverted:hover, .btn-inverted:focus, .btn-inverted:active, .btn-inverted.active{
+	background-color: black;
+	color: white !important;
+}
+
+
+.callout-li{
+	margin-left: 0.5ch !important;
+	margin-bottom: 1ch !important;
+	border-left-width: 5px!important;
+}
+
+
+
+.callout-post{
+	padding: 10px !important;
+	padding-left: 15px !important;
+}
+.top-callout{
+	display: block;
+	width: 100%;
+}
+.usr-callout{
+	display: inline-block;
+}
+
+.data-callout{
+	display: inline-block;
+	color: gray;
+}
+
+.content-callout{
+	margin-top: 20px;
+	padding-bottom: 2ch;
+	border-bottom: 1px solid #eee;
+}
+
+.bottom-callout{
+	display: block;
+	width: 100%;
+	margin-top: 1ch;
+}
+
+.action-callout{
+	margin-right: 2ch;
+	color: gray;
+}
+
+.action-callout-normal{
+	margin-right: 2ch;
+}
+
+.action-callout:hover{
+	text-decoration: none;
+	font-style: normal;
+	color: black;
+}
+.seta-dropdown{
+	color: gray;
+	border: 0;
+	background-color: white;
+	width: 16px;
+	height: 13px;
+	display: inline-block;
+	box-sizing: border-box;
+	padding: 0;
+}
+.seta-dropdown:hover{
+	color: black;
+}
+
+/*------------------------------------*/
+
+
+
+
+
+/*CALLOUT FROM SOMEONE WHO WAS TRYING TO SIMULATE BOOTSTRAP CALLOUT*/
+
+
+
+.bs-callout {
+		padding: 20px;
+		margin: 20px 0;
+		border: 1px solid #eee;
+		border-left-width: 5px;
+		border-radius: 3px;
+}
+.bs-callout h4 {
+		margin-top: 0;
+		margin-bottom: 5px;
+}
+.bs-callout p:last-child {
+		margin-bottom: 0;
+}
+.bs-callout code {
+		border-radius: 3px;
+}
+.bs-callout+.bs-callout {
+		margin-top: -5px;
+}
+.bs-callout-default {
+		border-left-color: #777;
+}
+.bs-callout-default h4 {
+		color: #777;
+}
+.bs-callout-primary {
+		border-left-color: #428bca;
+}
+.bs-callout-primary h4 {
+		color: #428bca;
+}
+.bs-callout-success {
+		border-left-color: #5cb85c;
+}
+.bs-callout-success h4 {
+		color: #5cb85c;
+}
+.bs-callout-danger {
+		border-left-color: #d9534f;
+}
+.bs-callout-verde {
+		border-left-color: #5cb85c;
+}
+.bs-callout-verde h4 {
+		color: #5cb85c;
+}
+.bs-callout-danger h4 {
+		color: #d9534f;
+}
+.bs-callout-warning {
+		border-left-color: #f0ad4e;
+}
+.bs-callout-warning h4 {
+		color: #f0ad4e;
+}
+.bs-callout-info {
+		border-left-color: #5bc0de;
+}
+.bs-callout-info h4 {
+		color: #5bc0de;
+}
+
+
+/*----------------------------*/
+
+.bs-callout a {
+	color:#196194;
+}

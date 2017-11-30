@@ -1,0 +1,57 @@
+.action-callout:hover {
+	cursor:pointer;
+}
+
+.lista-info{
+	margin-left: 2ch;
+	padding-left: 0;
+}
+
+.extra-info{
+	padding-top: 2ch;
+}
+
+.extra-info h4{
+	padding-bottom: 1ch;
+	border-bottom: 1px solid #eee;
+	font-size: 14px !important;
+}
+
+.usr-callout h4{
+	font-size: 16px !important;
+	color: #404040 !important;
+}
+
+#contato-detalhes{
+	color: gray;
+}
+
+.table-contato{
+	font-size: 14px;
+}
+
+.form-callout{
+	margin: 0;
+	padding:0;
+}
+
+#titulo-header{
+	display: inline-block;
+}
+
+.view-mode{
+	margin-top: 13px;
+}
+
+
+.titulo-pagina{
+	display: inline-block;
+	margin:0;
+}
+
+@media (max-width: 540px) {
+	.titulo-pagina{
+		display: block;
+		margin-bottom: 13px;
+	}
+}
